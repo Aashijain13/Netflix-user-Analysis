@@ -1,5 +1,6 @@
 # Netflix-user-Analysis
-NETFLIX GLOBAL INSIGHTS DASHBOARD
+**NETFLIX GLOBAL INSIGHTS DASHBOARD**
+
 A dynamic, interactive visual analytics tool exploring Netflix’s global streaming catalog—focusing on content distribution, genres, user engagement, and international reach.
 
 The Netflix Global Insights Dashboard offers a comprehensive overview of Netflix’s content library and consumption trends. Designed for entertainment analysts, business strategists, and streaming enthusiasts, it visually summarizes key metrics such as content volume, popular genres, user locations, and time-based trends to enhance data-driven decisions in the streaming industry.
